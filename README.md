@@ -1,60 +1,108 @@
+<div align="center">
+
 # Gabriel Vinícius Wendt
 
-### Administração + Tecnologia
+### Business × Technology × AI
 
-Construindo uma carreira na interseção entre **negócios, tecnologia, dados, automação e inteligência artificial**.
+**I turn business problems into systems, processes and useful technology.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Gabrielvw0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabrielvw0)
+
+</div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧭 What I'm building
 
-Sou estudante de **Administração** na UDC, com interesse em transformar problemas de negócio em processos mais simples, organizados e eficientes.
+I'm studying **Business Administration at UDC** and building a career at the intersection of **management, operations and technology**.
 
-Tenho experiência transitando entre áreas administrativas, tecnologia e operações. Gosto especialmente de entender **como um processo funciona, onde ele falha e como pode ser melhorado**.
+I like the part that happens before and after the code: understanding the problem, questioning the process, designing a better flow and turning an idea into something that actually works.
 
-Atualmente, meus principais interesses são:
+```text
+BUSINESS PROBLEM
+       ↓
+   UNDERSTAND
+       ↓
+     DESIGN
+       ↓
+  AUTOMATE / BUILD
+       ↓
+   MEASURE & IMPROVE
+```
 
-- 📊 Dados e Business Intelligence
-- 🤖 Inteligência Artificial e automação
-- ⚙️ Melhoria de processos e operações
-- 📋 Gestão de projetos
-- 💼 Negócios e mercado financeiro
+## ⚡ Current focus
 
-## 🛠️ Tecnologias & ferramentas
+| Area | What interests me |
+| --- | --- |
+| 🤖 **AI & Automation** | Generative AI, process automation, AI-assisted development |
+| 📊 **Data & BI** | Analysis, dashboards, information and decision-making |
+| ⚙️ **Operations** | Process improvement, organization and efficiency |
+| 📋 **Projects** | Planning, execution, problem solving and continuous improvement |
+| 💼 **Business** | Finance, administration and technology-driven business |
 
-**Desenvolvimento e dados**  
+## 🧪 Things I'm building
+
+### `Velnor`
+
+A stock management system created to solve a real operational problem while evolving through **architecture, security and process thinking**.
+
+`Python` · `FastAPI` · `SQLite` · `JWT` · `RBAC` · `GitHub`
+
+### `Automation & Process Tools`
+
+Small systems, prototypes and experiments designed to remove repetitive work, organize information and turn manual routines into measurable processes.
+
+> I don't build software just to have software. **The problem comes first.**
+
+## 🧰 My toolbox
+
+**Technology**
+
 `Python` `FastAPI` `SQLite` `PostgreSQL` `REST APIs` `Git` `GitHub`
 
-**Negócios & produtividade**  
-`Excel` `Power BI` `Microsoft Office` `Análise de Dados` `Gestão de Processos`
+**Business**
 
-**IA & automação**  
-`Generative AI` `Prompt Engineering` `Automação de Processos` `AI-assisted Development`
+`Excel` `Power BI` `Process Management` `Data Analysis` `Project Management`
 
-## 🚀 Projetos
+**AI**
 
-### Velnor
+`Generative AI` `Prompt Engineering` `AI-assisted Development` `Process Automation`
 
-Sistema de gestão de estoque desenvolvido com foco em organização, segurança, rastreabilidade e evolução arquitetural.
+## 📈 Roadmap
 
-**Stack:** Python · FastAPI · SQLite · JWT · RBAC · GitHub
+```text
+2026 ── Administration + Technology + AI
+          │
+          ├── Build real projects
+          ├── Strengthen data & automation
+          └── Develop project/operations skills
+          │
+2027 ── Professional growth
+          │
+          ├── Projects & Operations
+          ├── Data / BI / Automation
+          └── International preparation
+          │
+2028+ ─ International career
+          │
+          └── Business + Technology + AI
+```
 
-### Automação & Processos
+## 🌎 Long game
 
-Ferramentas e protótipos voltados à digitalização de rotinas administrativas, organização de informações e redução de tarefas repetitivas.
+Build a career where **business knowledge is not separated from technology**.
 
-## 🎯 Direção profissional
-
-Meu objetivo é atuar em posições que conectem **gestão e tecnologia**, especialmente em **Projetos, Operações, Dados, Automação e IA**.
-
-Tenho como visão construir uma carreira internacional, desenvolvendo experiência prática e combinando conhecimento de negócios com tecnologia.
-
-> Tecnologia é uma ferramenta. O objetivo é resolver problemas reais.
+My goal is to become the person who can sit between the people who understand the business and the people who build the technology, and actually understand both sides.
 
 ---
 
 <div align="center">
 
-### 📫 Construindo soluções úteis, uma melhoria por vez.
+### `Curiosity → Build → Measure → Improve`
+
+*Still learning. Still building. Still questioning why the spreadsheet has 14 tabs.*
 
 </div>
