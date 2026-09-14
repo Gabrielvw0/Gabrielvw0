@@ -1,120 +1,150 @@
 <div align="center">
 
-# Gabriel Vinícius Wendt
-
-### Administração · Tecnologia · IA
-
-**Transformando problemas de negócio em processos melhores e soluções úteis.**
+<img src="https://raw.githubusercontent.com/Gabrielvw0/Gabrielvw0/main/assets/banner.svg" alt="Gabriel Vinícius Wendt | Administração e Tecnologia" width="100%" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gabrielvw0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabrielvw0)
+[![GitHub](https://img.shields.io/badge/GitHub-Gabrielvw0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrielvw0)
+[![Administração](https://img.shields.io/badge/Área-Administração-334155?style=for-the-badge)](https://github.com/Gabrielvw0)
+[![Tecnologia](https://img.shields.io/badge/Foco-Tecnologia-1e293b?style=for-the-badge)](https://github.com/Gabrielvw0)
+[![IA](https://img.shields.io/badge/Foco-IA-475569?style=for-the-badge)](https://github.com/Gabrielvw0)
 
 </div>
 
 ---
 
-## 🧠 Quem sou eu
+## `gabriel@github:~$ whoami`
 
-Sou estudante de **Administração na UDC** e estou construindo uma carreira na interseção entre **negócios, tecnologia, dados e inteligência artificial**.
+Sou estudante de **Administração na UDC** e estou construindo minha carreira na interseção entre **negócios, tecnologia, dados e inteligência artificial**.
 
-Minha forma de pensar é simples: antes de perguntar *“como fazer?”*, gosto de perguntar **“por que fazemos assim?”**.
-
-Tenho interesse em entender processos, encontrar gargalos, organizar informações e usar tecnologia para transformar trabalho repetitivo em algo mais simples, confiável e eficiente.
+Não quero usar tecnologia apenas porque ela existe. Meu interesse começa antes do código: **entender o problema, questionar o processo e descobrir onde uma solução realmente gera valor.**
 
 ```text
-        PROBLEMA
-           │
-           ▼
-      ENTENDER O
-        PROCESSO
-           │
-           ▼
-     QUESTIONAR ──────┐
-           │          │
-           ▼          │
-        PROPOR        │
-        MELHORIA      │
-           │          │
-           ▼          │
-    AUTOMATIZAR /     │
-       CONSTRUIR      │
-           │          │
-           ▼          │
-       MEDIR ─────────┘
-           │
-           ▼
-        MELHORAR
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   PROBLEMA  →  ENTENDER  →  QUESTIONAR  →  MELHORAR     │
+│                                      │                   │
+│                                      ▼                   │
+│                              AUTOMATIZAR / CONSTRUIR     │
+│                                      │                   │
+│                                      ▼                   │
+│                                  MEDIR                   │
+│                                      │                   │
+│                                      └────→ ITERAR       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-## ⚡ No que estou focado
+## 🧭 Meu eixo
 
-| | Área | Foco |
-|---|---|---|
-| 🤖 | **IA & Automação** | IA generativa, automação e ferramentas inteligentes |
-| 📊 | **Dados & BI** | Análise de dados, indicadores e tomada de decisão |
-| ⚙️ | **Operações** | Processos, eficiência e organização |
-| 📋 | **Projetos** | Planejamento, execução e melhoria contínua |
-| 💼 | **Negócios** | Administração, finanças e tecnologia aplicada |
+<table>
+<tr>
+<td width="25%" align="center"><b>💼 NEGÓCIOS</b><br><sub>Administração<br>Finanças<br>Operações</sub></td>
+<td width="25%" align="center"><b>⚙️ PROCESSOS</b><br><sub>Mapeamento<br>Eficiência<br>Melhoria contínua</sub></td>
+<td width="25%" align="center"><b>📊 DADOS</b><br><sub>Excel<br>Power BI<br>Indicadores</sub></td>
+<td width="25%" align="center"><b>🤖 IA</b><br><sub>IA Generativa<br>Automação<br>Ferramentas inteligentes</sub></td>
+</tr>
+</table>
 
-## 🧪 Construindo na prática
+> **A ideia é simples:** conectar visão de negócio com capacidade técnica para transformar problemas reais em soluções úteis.
 
-### 🔹 Velnor
+---
 
-Sistema de gestão de estoque desenvolvido a partir de um problema operacional real.
+## 🧪 Projeto em destaque
 
-O projeto evoluiu além de simplesmente “fazer funcionar”, explorando **arquitetura, segurança, rastreabilidade, organização de processos e evolução do sistema**.
+### `VELNOR` · Sistema de Gestão de Estoque
 
-`Python` `FastAPI` `SQLite` `JWT` `RBAC` `GitHub`
+Um projeto que começou com uma necessidade operacional e evoluiu para um laboratório de **arquitetura, segurança, rastreabilidade e organização de processos**.
 
-### 🔹 Automação & Processos
+**Stack principal**
 
-Protótipos e ferramentas para digitalizar rotinas administrativas, organizar informações e reduzir tarefas repetitivas.
+`Python` · `FastAPI` · `SQLite` · `JWT` · `RBAC` · `REST API` · `Git`
 
-> **Não quero construir tecnologia por construir. Quero resolver problemas.**
+**O que estou explorando no projeto**
 
-## 🛠️ Ferramentas que fazem parte da jornada
+- 🔐 Autenticação, autorização e segurança
+- 🧾 Rastreabilidade e auditoria
+- 🧱 Organização arquitetural e contratos
+- 📦 Controle de estoque e divergências
+- 🧪 Testes e evolução controlada
+- 🔄 Preparação para crescimento da aplicação
 
-**Tecnologia**  
+<div align="center">
+
+[**→ Ver o projeto Velnor**](https://github.com/Gabrielvw0/Projeto-Estoque)
+
+</div>
+
+---
+
+## 🛠️ Ferramentas da jornada
+
+### Tecnologia
 `Python` `FastAPI` `SQLite` `PostgreSQL` `REST API` `Git` `GitHub`
 
-**Dados & Negócios**  
+### Dados & Gestão
 `Excel` `Power BI` `Análise de Dados` `Gestão de Processos` `Gestão de Projetos`
 
-**Inteligência Artificial**  
+### Inteligência Artificial
 `IA Generativa` `Prompt Engineering` `AI-assisted Development` `Automação`
 
-## 🚀 Onde quero chegar
+---
 
-Quero construir uma carreira capaz de conectar **quem entende o negócio com quem constrói a tecnologia**.
-
-Não me vejo preso a uma única caixa. Administração me dá a visão do negócio; tecnologia me permite construir; dados ajudam a decidir; IA amplia o que consigo fazer.
+## 🔍 O que me interessa
 
 ```text
-ADMINISTRAÇÃO
-      +
- TECNOLOGIA
-      +
-    DADOS
-      +
-      IA
-      ↓
-SOLUÇÕES PARA
-PROBLEMAS REAIS
+                    ┌──────────────────┐
+                    │     NEGÓCIO      │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │    PROCESSOS     │
+                    └────────┬─────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+          ┌───────┐      ┌───────┐      ┌───────┐
+          │ DADOS │      │  IA   │      │ TECH  │
+          └───┬───┘      └───┬───┘      └───┬───┘
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │     SOLUÇÃO      │
+                    └────────┬─────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │  VALOR REAL      │
+                    └──────────────────┘
 ```
 
-### 🌎 Próximo capítulo
+Gosto especialmente de projetos em que existe uma distância entre **“como fazemos hoje”** e **“como poderíamos fazer melhor”**.
 
-Hoje estou construindo experiência **no Brasil**, fortalecendo minha formação e desenvolvendo projetos próprios.
+É nessa distância que normalmente aparecem as melhores oportunidades para automação, dados e tecnologia.
+
+---
+
+## 🚀 Próximo capítulo
+
+Hoje, meu foco está em **construir experiência no Brasil**, terminar minha formação em Administração e transformar conhecimento em projetos concretos.
+
+No médio prazo, quero aprofundar minha atuação em **Projetos, Operações, Dados, Automação e IA aplicada aos negócios**.
 
 No futuro, quero levar essa combinação de **gestão + tecnologia + IA** para uma carreira internacional.
+
+Ainda não cheguei lá. Estou construindo o caminho.
 
 ---
 
 <div align="center">
 
-### `Aprender → Construir → Testar → Melhorar`
+### `APRENDER → CONSTRUIR → TESTAR → MELHORAR`
 
-*Ainda aprendendo. Ainda construindo. E ainda tentando descobrir por que aquela planilha precisava de 14 abas.*
+<sub>Administração para entender o negócio. Tecnologia para construir. Dados para decidir. IA para ampliar.</sub>
+
+<br><br>
+
+<sub>☕ E, ocasionalmente, descobrir por que aquela planilha precisava de 14 abas.</sub>
 
 </div>
