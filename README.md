@@ -2,107 +2,119 @@
 
 # Gabriel Vinícius Wendt
 
-### Business × Technology × AI
+### Administração · Tecnologia · IA
 
-**I turn business problems into systems, processes and useful technology.**
+**Transformando problemas de negócio em processos melhores e soluções úteis.**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gabrielvw0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabrielvw0)
 
 </div>
 
 ---
 
-## 🧭 What I'm building
+## 🧠 Quem sou eu
 
-I'm studying **Business Administration at UDC** and building a career at the intersection of **management, operations and technology**.
+Sou estudante de **Administração na UDC** e estou construindo uma carreira na interseção entre **negócios, tecnologia, dados e inteligência artificial**.
 
-I like the part that happens before and after the code: understanding the problem, questioning the process, designing a better flow and turning an idea into something that actually works.
+Minha forma de pensar é simples: antes de perguntar *“como fazer?”*, gosto de perguntar **“por que fazemos assim?”**.
 
-```text
-BUSINESS PROBLEM
-       ↓
-   UNDERSTAND
-       ↓
-     DESIGN
-       ↓
-  AUTOMATE / BUILD
-       ↓
-   MEASURE & IMPROVE
-```
-
-## ⚡ Current focus
-
-| Area | What interests me |
-| --- | --- |
-| 🤖 **AI & Automation** | Generative AI, process automation, AI-assisted development |
-| 📊 **Data & BI** | Analysis, dashboards, information and decision-making |
-| ⚙️ **Operations** | Process improvement, organization and efficiency |
-| 📋 **Projects** | Planning, execution, problem solving and continuous improvement |
-| 💼 **Business** | Finance, administration and technology-driven business |
-
-## 🧪 Things I'm building
-
-### `Velnor`
-
-A stock management system created to solve a real operational problem while evolving through **architecture, security and process thinking**.
-
-`Python` · `FastAPI` · `SQLite` · `JWT` · `RBAC` · `GitHub`
-
-### `Automation & Process Tools`
-
-Small systems, prototypes and experiments designed to remove repetitive work, organize information and turn manual routines into measurable processes.
-
-> I don't build software just to have software. **The problem comes first.**
-
-## 🧰 My toolbox
-
-**Technology**
-
-`Python` `FastAPI` `SQLite` `PostgreSQL` `REST APIs` `Git` `GitHub`
-
-**Business**
-
-`Excel` `Power BI` `Process Management` `Data Analysis` `Project Management`
-
-**AI**
-
-`Generative AI` `Prompt Engineering` `AI-assisted Development` `Process Automation`
-
-## 📈 Roadmap
+Tenho interesse em entender processos, encontrar gargalos, organizar informações e usar tecnologia para transformar trabalho repetitivo em algo mais simples, confiável e eficiente.
 
 ```text
-2026 ── Administration + Technology + AI
-          │
-          ├── Build real projects
-          ├── Strengthen data & automation
-          └── Develop project/operations skills
-          │
-2027 ── Professional growth
-          │
-          ├── Projects & Operations
-          ├── Data / BI / Automation
-          └── International preparation
-          │
-2028+ ─ International career
-          │
-          └── Business + Technology + AI
+        PROBLEMA
+           │
+           ▼
+      ENTENDER O
+        PROCESSO
+           │
+           ▼
+     QUESTIONAR ──────┐
+           │          │
+           ▼          │
+        PROPOR        │
+        MELHORIA      │
+           │          │
+           ▼          │
+    AUTOMATIZAR /     │
+       CONSTRUIR      │
+           │          │
+           ▼          │
+       MEDIR ─────────┘
+           │
+           ▼
+        MELHORAR
 ```
 
-## 🌎 Long game
+## ⚡ No que estou focado
 
-Build a career where **business knowledge is not separated from technology**.
+| | Área | Foco |
+|---|---|---|
+| 🤖 | **IA & Automação** | IA generativa, automação e ferramentas inteligentes |
+| 📊 | **Dados & BI** | Análise de dados, indicadores e tomada de decisão |
+| ⚙️ | **Operações** | Processos, eficiência e organização |
+| 📋 | **Projetos** | Planejamento, execução e melhoria contínua |
+| 💼 | **Negócios** | Administração, finanças e tecnologia aplicada |
 
-My goal is to become the person who can sit between the people who understand the business and the people who build the technology, and actually understand both sides.
+## 🧪 Construindo na prática
+
+### 🔹 Velnor
+
+Sistema de gestão de estoque desenvolvido a partir de um problema operacional real.
+
+O projeto evoluiu além de simplesmente “fazer funcionar”, explorando **arquitetura, segurança, rastreabilidade, organização de processos e evolução do sistema**.
+
+`Python` `FastAPI` `SQLite` `JWT` `RBAC` `GitHub`
+
+### 🔹 Automação & Processos
+
+Protótipos e ferramentas para digitalizar rotinas administrativas, organizar informações e reduzir tarefas repetitivas.
+
+> **Não quero construir tecnologia por construir. Quero resolver problemas.**
+
+## 🛠️ Ferramentas que fazem parte da jornada
+
+**Tecnologia**  
+`Python` `FastAPI` `SQLite` `PostgreSQL` `REST API` `Git` `GitHub`
+
+**Dados & Negócios**  
+`Excel` `Power BI` `Análise de Dados` `Gestão de Processos` `Gestão de Projetos`
+
+**Inteligência Artificial**  
+`IA Generativa` `Prompt Engineering` `AI-assisted Development` `Automação`
+
+## 🚀 Onde quero chegar
+
+Quero construir uma carreira capaz de conectar **quem entende o negócio com quem constrói a tecnologia**.
+
+Não me vejo preso a uma única caixa. Administração me dá a visão do negócio; tecnologia me permite construir; dados ajudam a decidir; IA amplia o que consigo fazer.
+
+```text
+ADMINISTRAÇÃO
+      +
+ TECNOLOGIA
+      +
+    DADOS
+      +
+      IA
+      ↓
+SOLUÇÕES PARA
+PROBLEMAS REAIS
+```
+
+### 🌎 Próximo capítulo
+
+Hoje estou construindo experiência **no Brasil**, fortalecendo minha formação e desenvolvendo projetos próprios.
+
+No futuro, quero levar essa combinação de **gestão + tecnologia + IA** para uma carreira internacional.
 
 ---
 
 <div align="center">
 
-### `Curiosity → Build → Measure → Improve`
+### `Aprender → Construir → Testar → Melhorar`
 
-*Still learning. Still building. Still questioning why the spreadsheet has 14 tabs.*
+*Ainda aprendendo. Ainda construindo. E ainda tentando descobrir por que aquela planilha precisava de 14 abas.*
 
 </div>
